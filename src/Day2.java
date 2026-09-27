@@ -30,7 +30,7 @@ public class Day2 {
         System.out.println("ЦД: " + ЦелочисленноеДеление);
         int Остаток = a % b;
         System.out.println("Остаток: " + Остаток);
-        int Деление = a / b;
+        double Деление = a / b;
         System.out.println("Деление " + Деление);
 
 
